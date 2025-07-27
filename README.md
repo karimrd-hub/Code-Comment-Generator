@@ -2,6 +2,8 @@
 
 An AI tool that generates descriptive comments for code snippets, helping developers maintain clean, understandable, and well-documented codebases.
 
+This project aligns with BLACKBOX AI’s mission to enhance developer productivity through AI-powered code understanding and generation tools, leveraging state-of-the-art language models to automate code documentation and improve codebase maintainability.
+
 Inspired by the rise of AI-assisted programming tools like GitHub Copilot, this project fine-tunes a lightweight language model to automatically generate Python docstrings from source code using the [CodeSearchNet](https://huggingface.co/datasets/code_search_net) dataset.
 
 ---
